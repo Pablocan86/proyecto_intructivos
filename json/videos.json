@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "titulo": "RECEPCIÓN DE PASES",
+    "categoria": "Pases",
+    "descripcion": "En este video se explica como recibir pases de expediente remitidos por otras oficinas a nuetras oficina",
+    "video": "./assets/videos/recepcion_pases.mp4"
+  },
+  {
+    "id": 2,
+    "titulo": "REASIGNACION POR INCOMPETENCIA",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que utiliza el Sistema Lex-100",
+    "video": "./assets/videos/recepcion_pases.mp4"
+  }
+]
