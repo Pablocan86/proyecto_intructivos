@@ -6,11 +6,68 @@
     "descripcion": "En este video se explica como recibir pases de expediente remitidos por otras oficinas a nuetras oficina",
     "video": "./assets/videos/recepcion_pases.mov"
   },
+
   {
     "id": 2,
     "titulo": "REASIGNACION POR INCOMPETENCIA INFORMATIZADA",
     "categoria": "Masivos",
     "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que utiliza el Sistema Lex-100",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 3,
+    "titulo": "REASIGNACION POR INCOMPETENCIA NO INFORMATIZADA",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que NO utiliza el Sistema Lex-100",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 4,
+    "titulo": "REASIGNACION POR RECHAZO DE CONEXIDAD",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado asignado rechaza la conexidad automática",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 5,
+    "titulo": "REASIGNACION POR RECUSACION SIN CAUSA",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación sin causa",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 6,
+    "titulo": "REASIGNACION POR RECUSACION CON CAUSA",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación con causa",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 7,
+    "titulo": "REASIGNACION POR EXCUSACION",
+    "categoria": "Masivos",
+    "descripcion": "En este video se explica como reasignar una causa cuando el JUEZ se Excusa de seguir entendiendo en la causa",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 8,
+    "titulo": "HACER PASE DE EXPEDIENTE",
+    "categoria": "Pases",
+    "descripcion": "En este video se explica como hacer un pase de un expediente que tenemos que remitir a otra oficina",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 9,
+    "titulo": "CONFECCION DE DESPACHOS",
+    "categoria": "Despachos",
+    "descripcion": "En este video se explica como hacer un proyecto para confeccionar un despacho",
+    "video": "./assets/videos/reasignacion_incompetencia.mov"
+  },
+  {
+    "id": 10,
+    "titulo": "ELEVACIONES ABIERTAS - DESPACHO",
+    "categoria": "Despachos",
+    "descripcion": "En este video se explica que hacer en caso de que se encuentra abierta una elevacion de un expediente de otro fuero",
     "video": "./assets/videos/reasignacion_incompetencia.mov"
   }
 ]
