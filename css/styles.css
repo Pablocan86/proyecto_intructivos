@@ -43,6 +43,7 @@ header {
 .inferior {
   border-top: 2px solid white;
   padding-top: 5px;
+  text-align: center;
 }
 
 main {
@@ -133,6 +134,7 @@ main h2 {
 #resultados {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: center;
 }
