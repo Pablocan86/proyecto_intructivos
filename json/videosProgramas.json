@@ -1,0 +1,83 @@
+[
+  {
+    "id": 11,
+    "titulo": "CREAR CARPETA NUEVA EN WINDOWS",
+    "categoria": "Pases",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como recibir pases de expediente remitidos por otras oficinas a nuetras oficina",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+
+  {
+    "id": 12,
+    "titulo": "ABRIR UN ARCHIVO EN WORD",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que utiliza el Sistema Lex-100",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 13,
+    "titulo": "GUARDAR COMO",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando viene por incompetencia de otro fuero, que NO utiliza el Sistema Lex-100",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 14,
+    "titulo": "CREAR UNA TABLA EN EXCEL",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado asignado rechaza la conexidad automática",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 15,
+    "titulo": "FORMATO EN MICROSFT WORD",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación sin causa",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 16,
+    "titulo": "FORMATO EN EXCELL",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando el juzgado da lugar a la Recusación con causa",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 17,
+    "titulo": "INSERTAR UNA IMAGEN EN WORD",
+    "categoria": "Masivos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como reasignar una causa cuando el JUEZ se Excusa de seguir entendiendo en la causa",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 18,
+    "titulo": "INSERTAR UNA IMAGEN EN EXCELL",
+    "categoria": "Pases",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como hacer un pase de un expediente que tenemos que remitir a otra oficina",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 19,
+    "titulo": "IMPRIMIR",
+    "categoria": "Despachos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica como hacer un proyecto para confeccionar un despacho",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  },
+  {
+    "id": 20,
+    "titulo": "GUARDAR UNA IMAGEN EN PDF",
+    "categoria": "Despachos",
+    "image": "./assets/img/windows.png",
+    "descripcion": "En este video se explica que hacer en caso de que se encuentra abierta una elevacion de un expediente de otro fuero",
+    "video": "./assets/videos/recibir_pase_uno.mp4"
+  }
+]
